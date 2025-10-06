@@ -1,5 +1,5 @@
 Resolución de conflictos
-![Resolución de conflictos](imagenes/conflict-resolution)
+![Resolución de conflictos](imagenes/conflict-resolution.png)
 
 árbol final
-![Tree](imagenes/tree)
+![Tree](imagenes/tree.png)
