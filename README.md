@@ -5,6 +5,6 @@ Resolución de conflictos en el contenido de text
 
 
 
-# Árbol final
+## Árbol final
 
 ![Tree](imagenes/tree.png)
